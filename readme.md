@@ -21,7 +21,6 @@ HelloNex est un activateur Windows moderne et efficace, développé en C# avec .
 ### Remarques
 - L'application nécessite des droits administrateur pour fonctionner correctement
 - Si les droits administrateur ne sont pas détectés, l'application les demandera automatiquement
-- L'installation au démarrage est configurée pour l'utilisateur actuel
 
 ---
 
@@ -44,4 +43,3 @@ HelloNex is a modern and efficient Windows activator, developed in C# with .NET.
 ### Notes
 - The application requires administrator rights to function properly
 - If administrator rights are not detected, the application will automatically request them
-- Startup installation is configured for the current user 
