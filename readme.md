@@ -16,7 +16,6 @@ HelloNex est un activateur Windows moderne et efficace, développé en C# avec .
 ### Installation
 1. Téléchargez la dernière version de HelloNex
 2. Exécutez simplement le fichier `HelloNex.exe`
-3. L'application s'installera automatiquement et s'exécutera au démarrage
 
 ### Remarques
 - L'application nécessite des droits administrateur pour fonctionner correctement
@@ -38,7 +37,6 @@ HelloNex is a modern and efficient Windows activator, developed in C# with .NET.
 ### Installation
 1. Download the latest version of HelloNex
 2. Simply run the `HelloNex.exe` file
-3. The application will automatically install and run at startup
 
 ### Notes
 - The application requires administrator rights to function properly
