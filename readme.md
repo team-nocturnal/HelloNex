@@ -9,7 +9,6 @@ HelloNex est un activateur Windows moderne et efficace, développé en C# avec .
 
 ### Caractéristiques
 - 🔒 Exécution automatique avec privilèges administrateur
-- 🔄 Installation automatique au démarrage de Windows
 - 💫 Interface moderne et épurée
 - ⚡ Activation silencieuse sans notifications
 - 📦 Application portable (un seul fichier exécutable)
@@ -33,7 +32,6 @@ HelloNex is a modern and efficient Windows activator, developed in C# with .NET.
 
 ### Features
 - 🔒 Automatic execution with administrator privileges
-- 🔄 Automatic startup installation
 - 💫 Modern and clean interface
 - ⚡ Silent activation without notifications
 - 📦 Portable application (single executable file)
